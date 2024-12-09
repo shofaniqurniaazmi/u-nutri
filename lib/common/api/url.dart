@@ -1,0 +1,2 @@
+// const newsURL = "https://newsdata.io/api/1/news?apikey=pub_512145b24e23ed26e817e4017220145129057&country=id&language=id&category=health"; //full
+const newsURL = "https://newsdata.io/api/1/news?apikey";
